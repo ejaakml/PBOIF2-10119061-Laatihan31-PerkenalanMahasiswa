@@ -10,6 +10,7 @@ package pboif2.pkg10119061.laatihan31.perkenalanmahasiswa;
  * NAMA  : RHEIZA AKMAL R
  * KELAS : IF2
  * NIM   : 10119061
+ * Deskripsi Program : untuk perkenalan mahasiswa
  */
 public class PBOIF210119061Laatihan31PerkenalanMahasiswa {
 
